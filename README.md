@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pradip Sawant</h1>
-<h3 align="center">A Passionate Java | PHP | Python Developer from India</h3>
+<h3 align="center">A Passionate Java | javascript | Backend Developer from India</h3>
 
 ---
 
 ### 💡 About Me
 - 🔭 Currently working on **Car Service Management System**  
 - 🌱 Learning **Hibernate | Spring Boot | Salesforce Development**  
-- 👨‍💻 All my projects are available on [GitHub](https://github.com/pradipsawant)  
+- 👨‍💻 All my projects are available on [GitHub](https://github.com/pradipsawant9696)  
 - 💬 Ask me about **Java, PHP, MySQL, Python**  
 - 📫 Reach me at **pradipsawant@gmail.com**  
 - ⚡ Fun fact: *I love building systems that simplify real-world problems.*
